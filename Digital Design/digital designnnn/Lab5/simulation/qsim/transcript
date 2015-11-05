@@ -1,0 +1,22 @@
+# do Lab5.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 11:10:43 on Oct 28,2015
+# vlog -work work Lab5.vo 
+# -- Compiling module Lab5
+# 
+# Top level modules:
+# 	Lab5
+# End time: 11:10:43 on Oct 28,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 11:10:43 on Oct 28,2015
+# vlog -work work Lab5.vwf.vt 
+# -- Compiling module Lab5_vlg_sample_tst
+# -- Compiling module Lab5_vlg_check_tst
+# ** Error: Lab5.vwf.vt(63): near ",": syntax error, unexpected ','
+# End time: 11:10:43 on Oct 28,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: c:/altera/15.0/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./Lab5.do line 4

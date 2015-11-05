@@ -1,0 +1,11 @@
+CLASSES: >15
+
+CSCE 3193H	(Honors Prog Paradigms)		3	prereq: pf2
+CSCE 2214	(Comp Organization)			4	prereq: digdes
+INEG 2313H	(Honors Stats4Engineers)	3	prereq: cal2
+PHYS 3613	(Modern Physics)			3	prereq: phys2
+CSCE 4433	***(Cryptography)			3	prereq: pf2 + discrete
+-------------------------------------------------------
+TOTAL									16
+
+*** irregular?? should i have a plan b??
