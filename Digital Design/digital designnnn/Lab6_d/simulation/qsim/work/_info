@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_d/simulation/qsim
+vlab6_d
+Z1 !s110 1447025519
+!i10b 1
+!s100 hJ=hIhf=nDAMC4d0N;glN0
+IoMG:k:<QgKDkXciO7Jf7E3
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1447025516
+8lab6_d.vo
+Flab6_d.vo
+L0 32
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1447025519.022000
+!s107 lab6_d.vo|
+!s90 -work|work|lab6_d.vo|
+!i113 1
+Z4 o-work work
+vlab6_d_vlg_check_tst
+R1
+!i10b 1
+!s100 HXdAYCT]5e[LbKVQ0QVVn3
+IlCQ?LFTa4G`6Q[?bh<hMd3
+R2
+R0
+Z5 w1447025508
+Z6 8lab6_d.vwf.vt
+Z7 Flab6_d.vwf.vt
+L0 66
+R3
+r1
+!s85 0
+31
+Z8 !s108 1447025519.116000
+Z9 !s107 lab6_d.vwf.vt|
+Z10 !s90 -work|work|lab6_d.vwf.vt|
+!i113 1
+R4
+vlab6_d_vlg_sample_tst
+R1
+!i10b 1
+!s100 EOnKB?9DCaV_JON<ggMCK2
+IL_]zWb1Zn^Xa]Wz]lO;ZP0
+R2
+R0
+R5
+R6
+R7
+L0 30
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vlab6_d_vlg_vec_tst
+R1
+!i10b 1
+!s100 j4jET;@kgEGR5VeJ_BIlb0
+I=LMK0j<]NdXO^FR6Ki>K[3
+R2
+R0
+R5
+R6
+R7
+L0 161
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4

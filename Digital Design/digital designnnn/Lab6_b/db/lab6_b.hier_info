@@ -1,0 +1,38 @@
+|lab6_b
+add_sub => internal_result[5].OUTPUTSELECT
+add_sub => internal_result.OUTPUTSELECT
+add_sub => internal_result.OUTPUTSELECT
+add_sub => internal_result.OUTPUTSELECT
+add_sub => internal_result.OUTPUTSELECT
+add_sub => internal_result.OUTPUTSELECT
+zero_flag <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+X[0] => Add0.IN10
+X[0] => Add1.IN5
+X[1] => Add0.IN9
+X[1] => Add1.IN4
+X[2] => Add0.IN8
+X[2] => Add1.IN3
+X[3] => Add0.IN7
+X[3] => Add1.IN2
+X[4] => Add0.IN6
+X[4] => Add1.IN1
+X[4] => Overflow.IN0
+Y[0] => Add1.IN10
+Y[0] => Add0.IN5
+Y[1] => Add1.IN9
+Y[1] => Add0.IN4
+Y[2] => Add1.IN8
+Y[2] => Add0.IN3
+Y[3] => Add1.IN7
+Y[3] => Add0.IN2
+Y[4] => Add1.IN6
+Y[4] => Overflow.IN1
+Y[4] => Add0.IN1
+Result[0] <= internal_result.DB_MAX_OUTPUT_PORT_TYPE
+Result[1] <= internal_result.DB_MAX_OUTPUT_PORT_TYPE
+Result[2] <= internal_result.DB_MAX_OUTPUT_PORT_TYPE
+Result[3] <= internal_result.DB_MAX_OUTPUT_PORT_TYPE
+Result[4] <= internal_result.DB_MAX_OUTPUT_PORT_TYPE
+Overflow <= Overflow.DB_MAX_OUTPUT_PORT_TYPE
+
+
