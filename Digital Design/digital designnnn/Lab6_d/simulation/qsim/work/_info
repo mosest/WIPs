@@ -9,13 +9,13 @@ z2
 cModel Technology
 Z0 dC:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_d/simulation/qsim
 vlab6_d
-Z1 !s110 1447025519
+Z1 !s110 1447091285
 !i10b 1
 !s100 hJ=hIhf=nDAMC4d0N;glN0
 IoMG:k:<QgKDkXciO7Jf7E3
 Z2 V`JN@9S9cnhjKRR_L]QIcM3
 R0
-w1447025516
+w1447091282
 8lab6_d.vo
 Flab6_d.vo
 L0 32
@@ -23,7 +23,7 @@ Z3 OV;L;10.3d;59
 r1
 !s85 0
 31
-!s108 1447025519.022000
+!s108 1447091285.395000
 !s107 lab6_d.vo|
 !s90 -work|work|lab6_d.vo|
 !i113 1
@@ -35,7 +35,7 @@ R1
 IlCQ?LFTa4G`6Q[?bh<hMd3
 R2
 R0
-Z5 w1447025508
+Z5 w1447091275
 Z6 8lab6_d.vwf.vt
 Z7 Flab6_d.vwf.vt
 L0 66
@@ -43,7 +43,7 @@ R3
 r1
 !s85 0
 31
-Z8 !s108 1447025519.116000
+Z8 !s108 1447091285.551000
 Z9 !s107 lab6_d.vwf.vt|
 Z10 !s90 -work|work|lab6_d.vwf.vt|
 !i113 1

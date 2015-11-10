@@ -1,0 +1,7 @@
+|lab6_a
+x1 => f.IN0
+x2 => f.IN1
+x3 => f.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+
+

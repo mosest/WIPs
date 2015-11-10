@@ -1,5 +1,5 @@
 TimeQuest Timing Analyzer report for lab6_b
-Sun Nov 08 15:39:24 2015
+Mon Nov 09 11:31:53 2015
 Quartus II 64-Bit Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
 
 
@@ -1072,7 +1072,7 @@ No non-DPA dedicated SERDES Receiver circuitry present in device or used in desi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit TimeQuest Timing Analyzer
     Info: Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
-    Info: Processing started: Sun Nov 08 15:39:00 2015
+    Info: Processing started: Mon Nov 09 11:31:39 2015
 Info: Command: quartus_sta lab6_b -c lab6_b
 Info: qsta_default_script.tcl version: #11
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
@@ -1132,8 +1132,8 @@ Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus II 64-Bit TimeQuest Timing Analyzer was successful. 0 errors, 5 warnings
     Info: Peak virtual memory: 1030 megabytes
-    Info: Processing ended: Sun Nov 08 15:39:24 2015
-    Info: Elapsed time: 00:00:24
+    Info: Processing ended: Mon Nov 09 11:31:53 2015
+    Info: Elapsed time: 00:00:14
     Info: Total CPU time (on all processors): 00:00:14
 
 

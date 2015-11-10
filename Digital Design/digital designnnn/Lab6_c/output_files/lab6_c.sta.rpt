@@ -1,5 +1,5 @@
 TimeQuest Timing Analyzer report for lab6_c
-Sun Nov 08 16:13:18 2015
+Mon Nov 09 11:39:21 2015
 Quartus II 64-Bit Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
 
 
@@ -103,12 +103,12 @@ agreement for further details.
 ; Number detected on machine ; 2           ;
 ; Maximum allowed            ; 2           ;
 ;                            ;             ;
-; Average used               ; 1.08        ;
+; Average used               ; 1.00        ;
 ; Maximum used               ; 2           ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processor 2            ;   7.7%      ;
+;     Processor 2            ; < 0.1%      ;
 +----------------------------+-------------+
 
 
@@ -599,7 +599,7 @@ No non-DPA dedicated SERDES Receiver circuitry present in device or used in desi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit TimeQuest Timing Analyzer
     Info: Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
-    Info: Processing started: Sun Nov 08 16:13:02 2015
+    Info: Processing started: Mon Nov 09 11:39:04 2015
 Info: Command: quartus_sta lab6_c -c lab6_c
 Info: qsta_default_script.tcl version: #11
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
@@ -658,9 +658,9 @@ Info (332140): No Minimum Pulse Width paths to report
 Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus II 64-Bit TimeQuest Timing Analyzer was successful. 0 errors, 5 warnings
-    Info: Peak virtual memory: 1028 megabytes
-    Info: Processing ended: Sun Nov 08 16:13:18 2015
-    Info: Elapsed time: 00:00:16
-    Info: Total CPU time (on all processors): 00:00:13
+    Info: Peak virtual memory: 1029 megabytes
+    Info: Processing ended: Mon Nov 09 11:39:21 2015
+    Info: Elapsed time: 00:00:17
+    Info: Total CPU time (on all processors): 00:00:16
 
 

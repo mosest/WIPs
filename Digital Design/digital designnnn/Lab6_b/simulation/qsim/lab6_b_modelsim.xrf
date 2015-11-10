@@ -1,11 +1,11 @@
 vendor_name = ModelSim
-source_file = 1, H:/Lab6_b/lab6_b.vhd
-source_file = 1, H:/Lab6_b/lab6_b.vwf
+source_file = 1, C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_b/lab6_b.vhd
+source_file = 1, C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_b/lab6_b.vwf
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/timing_b.vhd
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/timing_p.vhd
-source_file = 1, H:/Lab6_b/db/lab6_b.cbx.xml
+source_file = 1, C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_b/db/lab6_b.cbx.xml
 design_name = lab6_b
 instance = comp, \zero_flag~output , zero_flag~output, lab6_b, 1
 instance = comp, \Result[0]~output , Result[0]~output, lab6_b, 1

@@ -17,7 +17,7 @@
 -- PROGRAM "Quartus II 64-Bit"
 -- VERSION "Version 15.0.2 Build 153 07/15/2015 SJ Web Edition"
 
--- DATE "11/08/2015 17:12:24"
+-- DATE "11/09/2015 11:47:23"
 
 -- 
 -- Device: Altera 5CGXFC7C7F23C8 Package FBGA484
@@ -41,7 +41,7 @@ ENTITY 	lab6_d IS
 	w2 : IN std_logic;
 	w3 : IN std_logic;
 	s : IN std_logic_vector(1 DOWNTO 0);
-	f : OUT std_logic
+	f : BUFFER std_logic
 	);
 END lab6_d;
 

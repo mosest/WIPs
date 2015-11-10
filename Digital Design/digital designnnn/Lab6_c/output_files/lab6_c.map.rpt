@@ -1,5 +1,5 @@
 Analysis & Synthesis report for lab6_c
-Sun Nov 08 16:10:04 2015
+Mon Nov 09 11:36:45 2015
 Quartus II 64-Bit Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
 
 
@@ -43,7 +43,7 @@ agreement for further details.
 +------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                 ;
 +---------------------------------+--------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Sun Nov 08 16:10:04 2015      ;
+; Analysis & Synthesis Status     ; Successful - Mon Nov 09 11:36:45 2015      ;
 ; Quartus II 64-Bit Version       ; 15.0.2 Build 153 07/15/2015 SJ Web Edition ;
 ; Revision Name                   ; lab6_c                                     ;
 ; Top-level Entity Name           ; lab6_c                                     ;
@@ -168,13 +168,13 @@ agreement for further details.
 +----------------------------+-------------+
 
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                ;
-+----------------------------------+-----------------+-----------------+--------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type       ; File Name with Absolute Path                                                         ; Library ;
-+----------------------------------+-----------------+-----------------+--------------------------------------------------------------------------------------+---------+
-; lab6_c.vhd                       ; yes             ; User VHDL File  ; C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6/lab6_c.vhd ;         ;
-+----------------------------------+-----------------+-----------------+--------------------------------------------------------------------------------------+---------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                  ;
++----------------------------------+-----------------+-----------------+----------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type       ; File Name with Absolute Path                                                           ; Library ;
++----------------------------------+-----------------+-----------------+----------------------------------------------------------------------------------------+---------+
+; lab6_c.vhd                       ; yes             ; User VHDL File  ; C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_c/lab6_c.vhd ;         ;
++----------------------------------+-----------------+-----------------+----------------------------------------------------------------------------------------+---------+
 
 
 +----------------------------------------------------------+
@@ -249,7 +249,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:02     ;
+; Top            ; 00:00:01     ;
 +----------------+--------------+
 
 
@@ -259,7 +259,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
-    Info: Processing started: Sun Nov 08 16:09:21 2015
+    Info: Processing started: Mon Nov 09 11:36:15 2015
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off lab6_c -c lab6_c
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
 Info (12021): Found 2 design units, including 1 entities, in source file lab6_c.vhd
@@ -274,9 +274,9 @@ Info (21057): Implemented 11 device resources after synthesis - the final resour
     Info (21059): Implemented 4 output pins
     Info (21061): Implemented 4 logic cells
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 763 megabytes
-    Info: Processing ended: Sun Nov 08 16:10:04 2015
-    Info: Elapsed time: 00:00:43
-    Info: Total CPU time (on all processors): 00:00:51
+    Info: Peak virtual memory: 750 megabytes
+    Info: Processing ended: Mon Nov 09 11:36:45 2015
+    Info: Elapsed time: 00:00:30
+    Info: Total CPU time (on all processors): 00:00:50
 
 

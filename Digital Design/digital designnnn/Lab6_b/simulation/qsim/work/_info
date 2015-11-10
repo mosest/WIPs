@@ -7,59 +7,59 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dH:/Lab6_b/simulation/qsim
+dH:/Lab6_b/simulation/qsim
 vlab6_b
-!s110 1447019853
+Z0 !s110 1447090349
 !i10b 1
 !s100 D5Ye8z_?ODckaX_d82k3z3
 Ig6hln5X>jjRSC[5la4<fn3
 Z1 V`JN@9S9cnhjKRR_L]QIcM3
-R0
-w1447019850
+Z2 dC:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_b/simulation/qsim
+w1447090347
 8lab6_b.vo
 Flab6_b.vo
 L0 32
-Z2 OV;L;10.3d;59
+Z3 OV;L;10.3d;59
 r1
 !s85 0
 31
-!s108 1447019853.009000
+!s108 1447090349.616000
 !s107 lab6_b.vo|
 !s90 -work|work|lab6_b.vo|
 !i113 1
-Z3 o-work work
+Z4 o-work work
 vlab6_b_vlg_check_tst
-Z4 !s110 1447019854
+R0
 !i10b 1
 !s100 eKIH>zc2M@CBmEMCTe7]j3
 IK>60zm@NXK>6hIEih;J2I1
 R1
-R0
-Z5 w1447019842
+R2
+Z5 w1447090339
 Z6 8lab6_b.vwf.vt
 Z7 Flab6_b.vwf.vt
 L0 62
-R2
+R3
 r1
 !s85 0
 31
-Z8 !s108 1447019854.584000
+Z8 !s108 1447090349.803000
 Z9 !s107 lab6_b.vwf.vt|
 Z10 !s90 -work|work|lab6_b.vwf.vt|
 !i113 1
-R3
-vlab6_b_vlg_sample_tst
 R4
+vlab6_b_vlg_sample_tst
+R0
 !i10b 1
 !s100 34oN?2HOD6OL`PV=;`JeN3
 IE:^1Q1gd1K58KMbK^Sbl^2
 R1
-R0
+R2
 R5
 R6
 R7
 L0 30
-R2
+R3
 r1
 !s85 0
 31
@@ -67,19 +67,19 @@ R8
 R9
 R10
 !i113 1
-R3
+R4
 vlab6_b_vlg_vec_tst
-!s110 1447019855
+R0
 !i10b 1
 !s100 KofMLRXL<:KeklO5:^SRA1
 IOHg@^X`RKFzDN=iSFX=Y`3
 R1
-R0
+R2
 R5
 R6
 R7
 L0 282
-R2
+R3
 r1
 !s85 0
 31
@@ -87,4 +87,4 @@ R8
 R9
 R10
 !i113 1
-R3
+R4

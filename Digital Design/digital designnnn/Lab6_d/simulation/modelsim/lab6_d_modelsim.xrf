@@ -1,5 +1,6 @@
 vendor_name = ModelSim
 source_file = 1, C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_d/lab6_d.vhd
+source_file = 1, C:/Users/Tara/Documents/GitHub/WIPs/Digital Design/digital designnnn/Lab6_d/lab6_d.vwf
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, c:/altera/15.0/quartus/libraries/vhdl/ieee/timing_b.vhd
