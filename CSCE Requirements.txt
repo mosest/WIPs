@@ -7,8 +7,8 @@ x GNEG 1121							General Eng II
 x CSCE 2004							PF1
 x CSCE 2014							PF2
 x CSCE 2114							Digital Design
-_ CSCE 2214							Computer Organization
-_ CSCE 3193							Programming Paradigms
+x CSCE 2214							Computer Organization
+x CSCE 3193							Programming Paradigms
 _ CSCE 3513							Software Engineering
 _ CSCE 3613							Operating Systems
 _ CSCE 4313							Algorithms
@@ -32,13 +32,18 @@ _ STAT 3013 or INEG 2313			-
 
 x PHYS 2054							Physics I
 x Freshman Sci Elec (PHYS 2074)		Physics II
-_ Basic Sci Elec+Lab 				-				
+x Basic Sci Elec+Lab (PHYS 3613)	Modern Physics			
 
 x CHEM 1103							Chemistry for Engineers
 
-Humanities/Social Sciences----------------------------------------------
+Free Electives----------------------------------------------------------
+x Free Elective	(MATH 2584C)		Differential Equations
+_ Free Elective						-
+_ Free Elective						-
+
+Humanities/Social Sciences [DONE]----------------------------------------------
 x ENGL 1013 						Composition I
-_ ENGL 1023							Composition II
+x ENGL 1023							Composition II
 
 x History/Govt Elec (HIST 2003)		History (to 1877)
 
@@ -47,11 +52,6 @@ x Social Sci Elec (ANTH 1023)		Cultural Anthropology
 x Social Sci Elec (HIST 2013)		History (1877 - present)
 x Fine Arts Elec (ARTS 1003)		Basic Course: Art Lecture
 
-_ COMM 1313							Public Speaking
+x COMM 1313							Public Speaking
 x PHIL 3103							Ethics and the Professions
-
-Free Electives----------------------------------------------------------
-x Free Elective	(MATH 2584C)		Differential Equations
-_ Free Elective						-
-_ Free Elective						-
 
