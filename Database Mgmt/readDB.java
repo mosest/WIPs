@@ -16,7 +16,7 @@ public class readDB
     // 						-----------------------
     
     static int RECORD_SIZE = 71;
-    static int NUM_RECORDS = 4360;
+    static int NUM_RECORDS = 4110;
 
     // 						-----------------
     //						|				|
@@ -147,7 +147,17 @@ public class readDB
 			
 			// 5: Update record ------------------------------------------
 			} else if (choice == 5) {
-			
+				while(!isAValidKey(key)) {
+					System.out.print("Please input a number 0 or greater: ");
+					key = in.nextLine();
+				}
+				
+				// Now that we have a key, let's get the record!!
+				String record = binarySearch(currentDB, keyIntToKeyString(key));
+				
+				// Now let's update the record with whatever the user wants.
+				// Do this l8r
+				
 			// 6: Create report ----------------------------------------	
 			} else if (choice == 6) {
 			
@@ -156,7 +166,14 @@ public class readDB
 			
 			// 8: Delete record ----------------------------------------
 			} else if (choice == 8) {
-			
+				while(!isAValidKey(key)) {
+					System.out.print("Please input a number 0 or greater: ");
+					key = in.nextLine();
+				}
+				
+				// Now that we have a key, let's change the record to a blank one!!
+				String record = binarySearch(currentDB, keyIntToKeyString(key));
+				
 			// 9: Quit -------------------------------------------------
 			} else if (choice == 9) {
 				System.out.println("Thank you for using the database.\n");
